@@ -2,6 +2,9 @@
 layout: page
 title: News Archive
 ---
+_**(Nov 2020)**_ Serving as a Poster Mentor at Women in Machine Learning workshop at NeurIPS 2020(WiML 2020), also serving as a volunteer for NeurIPS 2020 virtual conference.
+<br>
+<br>
 _**(Aug 2020)**_ Got selected & attended the Google Research India-AI Summer School 2020.
 <br>
 <br>
