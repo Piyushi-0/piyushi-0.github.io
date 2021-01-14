@@ -2,13 +2,13 @@
 layout: page
 title: News Archive
 ---
-_**(Nov 2020)**_ Serving as a Poster Mentor at Women in Machine Learning workshop at NeurIPS 2020(WiML 2020), also serving as a volunteer for NeurIPS 2020 virtual conference.
+_**(Nov 2020)**_ Serving as a Poster Mentor at Women in Machine Learning(WiML) workshop at NeurIPS 2020, also serving as a volunteer for NeurIPS 2020 virtual conference.
 <br>
 <br>
-_**(Aug 2020)**_ Got selected & attended the Google Research India-AI Summer School 2020.
+_**(Aug 2020)**_ Got selected & attended the Google Research India-AI Summer School 2020 (total 150 students selected from all over India).
 <br>
 <br>
-_**(Jul 2020)**_ Converted to the PhD program in the CSE Dept. IIT Hyderabad, under Dr J Saketha Nath & Dr Vineeth N Balasubramanian.
+_**(Jul 2020)**_ Converted to the PhD program in CSE Dept. IIT Hyderabad.
 <br>
 <br>
 _**(Jul 2020)**_ Presented "SEA-NN: Submodular Ensembled Attribution for Neural Networks" at ICML 2020 as a Poster at XXAI: Extending Explainable AI Beyond Deep Models and Classifiers; & as a Spotlight presentation at WHI: Workshop on Human Interpretability.
@@ -47,10 +47,10 @@ _**(Dec 2018)**_ Attended the 11th Indian Conference on Computer Vision, Graphic
 _**(Jul 2018)**_ Joined Dept. of CSE IIT Hyderabad as a Masters student and a Research Assistant under Dr. Vineeth N Balasubramanian.
 <br>
 <br>
-_**(May 2018)**_ Graduated from NIT Uttarakhand with BTech in CSE.
+_**(May 2018)**_ Graduated from NIT Uttarakhand with BTech in CSE, ranked 4th based on CGPA.
 <br>
 <br>
-_**(Apr 2018)**_ One among the 99 students all over India who cleared the BARC CSE 2018 round 1 exam.
+_**(Apr 2018)**_ One amongst the 99 students all over India who cleared the Bhabha Atomic Research Centre (BARC) pre-interview exam in Computer Science stream.
 <br>
 <br>
 _**(Mar 2018)**_ Qualified GATE 2018 with 99.03 percentile(GATE score 651).
