@@ -3,6 +3,7 @@ layout: page
 title: Talks
 ---
 
-- SEA-NN: Submodular Ensembled Attribution for Neural Networks, ICML 2020 XXAI Poster session, July 2020
-
-- Explaining Neural Networks: A Causal Perspective, Immersive Multimedia Lab-IIT Hyderabad, Dec 2020
+_**(Dec 2020)**_ Neural Network Attributions: A Causal Perspective, at Immersive Multimedia Lab-IIT Hyderabad.
+<br>
+<br>
+_**(July 2020)**_ SEA-NN: Submodular Ensembled Attribution for Neural Networks, at ICML 2020 XXAI Poster session.
