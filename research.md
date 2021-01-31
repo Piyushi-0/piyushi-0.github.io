@@ -6,7 +6,6 @@ Please visit my [Google Scholar profile](https://scholar.google.com/citations?us
 
 - ### Optimal Transport
   Started working on Statistical Optimal Transport with a focus on Unbalanced Optimal Transport.
-   > We maintain a Reading Group dedicated to Optimal Transport, for more details, please have a look at our Reading Group's [[website]]().
   <br>
   <br>
 - ### Attribution Algorithms for Neural Networks
