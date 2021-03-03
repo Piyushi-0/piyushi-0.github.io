@@ -41,5 +41,5 @@ Attachment is an invisible poison that can turn love into business. How much eve
 19. **Every phase, however traumatizing it may seem, comes to an end** Learnt during the 5hrs Rishikesh-Srinagar bus journeys that were nothing less than a torture to me, especially during my initial BTech days.
 20. **There is nothing good/bad; keep no prejudices, just stillness with awareness** Learned this when all my notions were shattered in 2018 & I simply surrendered to the universe.
 
-
+======This blog was modified for the first & last time in March 2021.======
 
