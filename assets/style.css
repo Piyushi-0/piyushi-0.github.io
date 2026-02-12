@@ -27,9 +27,9 @@ header {
 }
 
 .container {
-    max-width: 900px;   /* controls overall page width */
+    max-width: 1000px;   /* controls overall page width */
     margin: 0 auto;     /* centers content */
-    padding: 0 20px;    /* adds left/right breathing room */
+    padding: 0 10px;    /* adds left/right breathing room */
 }
 
 .profile-image img {
