@@ -27,9 +27,9 @@ header {
 }
 
 .container {
-    max-width: 1000px;   /* controls overall page width */
+    max-width: 1100px;   /* controls overall page width */
     margin: 0 auto;     /* centers content */
-    padding: 0 10px;    /* adds left/right breathing room */
+    padding: 0 5px;    /* adds left/right breathing room */
 }
 
 .profile-image img {
@@ -44,9 +44,6 @@ header {
     border-bottom: 1px solid #e5e5e5;  /* light horizontal line */
 }
 
-.section:last-of-type {
-    border-bottom: none;
-}
 
 hr {
     border: none;
