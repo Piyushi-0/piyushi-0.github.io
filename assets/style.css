@@ -31,3 +31,9 @@ header {
     margin: 0 auto;     /* centers content */
     padding: 0 20px;    /* adds left/right breathing room */
 }
+
+.profile-image img {
+    width: 90px;
+    height: auto;
+    border-radius: 6px;
+}
