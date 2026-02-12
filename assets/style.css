@@ -37,3 +37,13 @@ header {
     height: auto;
     border-radius: 6px;
 }
+
+.section {
+    margin-bottom: 60px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #e5e5e5;  /* light horizontal line */
+}
+
+.section:last-of-type {
+    border-bottom: none;
+}
