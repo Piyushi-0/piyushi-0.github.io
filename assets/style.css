@@ -50,3 +50,24 @@ hr {
     border-top: 1px solid #f0f0f0;  /* light grey line */
     margin: 50px 0;
 }
+
+.news-list {
+    list-style: none;   /* remove default bullets */
+    padding: 0;
+}
+
+.news-list li {
+    display: grid;
+    grid-template-columns: 90px 1fr;  /* fixed date column */
+    gap: 15px;
+    margin-bottom: 12px;
+}
+
+.news-date {
+    font-weight: 600;
+    color: #555;
+}
+
+.news-text {
+    line-height: 1.5;
+}
